@@ -20,6 +20,6 @@ You can also host the server on a cloud provider (Google Clouds, AWS or Azure)
 The arguments are optional but their default values are indicated in main.py. By default the dataset is in the folder MLOps.
 You can just start a training by running * *python main.py* *
 
-![Screenshot](mlflowserver.png.png)
+![Screenshot mlflow server](mlflowserver.png.png)
 
 
