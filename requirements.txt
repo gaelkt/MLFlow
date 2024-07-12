@@ -1,0 +1,9 @@
+mlflow==2.8.0
+cloudpickle
+importlib-metadata
+numpy
+packaging
+psutil
+pyyaml
+scikit-learn
+scipy
