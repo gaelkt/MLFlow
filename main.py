@@ -157,14 +157,3 @@ if __name__ == "__main__":
             registered_model_name="registered_model_name-sk-learn",
             )
         
-        
-#         from mlflow import MlflowClient
-#         client = MlflowClient()
-        
-#         A = True
-        
-#         if A:
-#             client.transition_model_version_stage(
-#             name="registered_model_name-sk-learn", stage="Production"
-# )
-        
