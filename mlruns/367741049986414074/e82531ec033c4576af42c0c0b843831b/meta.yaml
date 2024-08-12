@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gaelk/OneDrive/Desktop/Jobs/July%202023/python/mlops/MLFlow/mlruns/367741049986414074/e82531ec033c4576af42c0c0b843831b/artifacts
+end_time: 1723174080888
+entry_point_name: ''
+experiment_id: '367741049986414074'
+lifecycle_stage: active
+name: ''
+run_id: e82531ec033c4576af42c0c0b843831b
+run_uuid: e82531ec033c4576af42c0c0b843831b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723174077106
+status: 4
+tags: []
+user_id: gaelk

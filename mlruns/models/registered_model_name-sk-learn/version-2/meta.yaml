@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723169448912
+current_stage: None
+description: ''
+last_updated_timestamp: 1723169448912
+name: registered_model_name-sk-learn
+run_id: 71c221208e4f43939fdc0955ad03ba9e
+run_link: ''
+source: file:///C:/Users/gaelk/OneDrive/Desktop/Jobs/July%202023/python/mlops/MLFlow/mlruns/178193817595519229/71c221208e4f43939fdc0955ad03ba9e/artifacts/artifacts-folder
+status: READY
+status_message: null
+storage_location: file:///C:/Users/gaelk/OneDrive/Desktop/Jobs/July%202023/python/mlops/MLFlow/mlruns/178193817595519229/71c221208e4f43939fdc0955ad03ba9e/artifacts/artifacts-folder
+user_id: null
+version: 2
